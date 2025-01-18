@@ -1,1 +1,1 @@
-# tizen-studio-container
+# Tizen Studio Container
